@@ -1,0 +1,44 @@
+.warp{
+	margin:0px auto;
+	width:1000px;
+}
+.col{
+	width:240px;
+	float:left;
+	margin-right:10px;
+}
+.item{
+	width:240px;
+	margin-bottom:5px;
+	padding-bottom:5px;
+	background:#ccc;
+}
+.img_container{
+	width:210px;
+	padding:10px 14px 10px;
+}
+.item img{
+	width:210px;
+}
+.h240{
+	height:240px;
+}
+.h280{
+	height:280px;
+}
+
+.h300{
+	height:300px;
+}
+.h320{
+	height:320px;
+}
+.h360{
+	height:360px;
+}
+.h460{
+	height:480px;
+}
+.h400{
+	height:400px;
+}
